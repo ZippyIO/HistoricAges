@@ -45,8 +45,9 @@ public class HistoricAges
 		
 		
 		HistoricAgesBlocks.init();
+		HistoricAgesBlocks.register();
 		HistoricAgesItems.init();
-		
+		HistoricAgesItems.register();
 		//CraftingManager.getInstance().getRecipeList().clear();
 
 		

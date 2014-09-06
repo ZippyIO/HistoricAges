@@ -24,4 +24,8 @@ public class HistoricAgesItems {
 		GameRegistry.registerItem(item, item.getUnlocalizedName());
 	}
 
+	public static void register() {
+		
+	}
+
 }
