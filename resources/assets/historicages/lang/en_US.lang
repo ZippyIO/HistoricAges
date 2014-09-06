@@ -1,0 +1,33 @@
+tile.oreCobalt.name= Cobalt Ore
+tile.oreLead.name= Lead Ore
+tile.oreCopper.name= Copper Ore
+tile.oreSilver.name= Silver Ore
+tile.oreTin.name= Tin Ore
+tile.oreGold.name= Gold Ore
+tile.oreIron.name= Iron Ore
+
+tile.blockGold.name= Block of Gold
+tile.blockIron.name= Block of Iron
+tile.blockCopper.name= Block of Copper
+tile.blockSilver.name= Block of Silver
+tile.blockTin.name= Block of Tin
+tile.blockLead.name= Block of Lead
+tile.blockCobalt.name= Block of Cobalt
+
+tile.brickCobalt.name= Cobalt Bricks
+tile.brickCopper.name= Copper Bricks
+tile.brickSilver.name= Silver Bricks
+tile.brickTin.name= Tin Bricks
+tile.brickLead.name= Lead Bricks
+tile.brickIron.name= Iron Bricks
+tile.brickGold.name= Gold Bricks
+
+
+tile.chiseledCobalt.name= Chiseled Cobalt
+tile.chiseledCopper.name= Chiseled Copper
+tile.chiseledSilver.name= Chiseled Silver
+tile.chiseledTin.name= Chiseled Tin
+tile.chiseledLead.name= Chiseled Lead
+tile.chiseledIron.name= Chiseled Iron
+tile.chiseledGold.name= Chiseled Gold
+
